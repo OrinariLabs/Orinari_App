@@ -1,12 +1,12 @@
 # Smart Contracts Architecture
 
-Luna402's autonomous payment system is powered by three core smart contracts that work together to enable secure, transparent, and autonomous transactions.
+necrona's autonomous payment system is powered by three core smart contracts that work together to enable secure, transparent, and autonomous transactions.
 
 ## Contract Overview
 
 ```
 ┌─────────────────────────────────────┐
-│        Luna402 Ecosystem          │
+│        Necrona Ecosystem          │
 ├─────────────────────────────────────┤
 │  User Interface (Next.js App)       │
 ├─────────────────────────────────────┤
@@ -475,7 +475,7 @@ X402Registry: 0x...
 
 All contracts are open source:
 
-- GitHub: [github.com/luna402/luna402](https://github.com/Luna402-xyz/luna402)
+- GitHub: [github.com/NecronaLabs](https://github.com/NecronaLabs)
 - License: MIT
 - Folder: `/contracts`
 
@@ -487,5 +487,3 @@ All contracts are open source:
 - [API Reference](../api-reference/chat.md)
 
 ---
-
-**Questions?** Email [dev@luna402xyz.xyz](mailto:dev@luna402xyz.xyz)

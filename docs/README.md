@@ -125,10 +125,9 @@ See the [contracts folder](../contracts/) for full source code and tests.
 
 Join our growing community:
 
-- **Email Support**: [support@necronalabs.xyz](mailto:support@necronalabs.xyz)  
-- **X**: [@necronalabs](https://x.com/necronalabs)  
-- **Discord**: [Join our community](https://discord.gg/necronalabs)  
-- **GitHub**: [Report issues](https://github.com/NecronaLabs-xyz/necronalabs)  
+- **Email Support**: [support@necronalabs.xyz](mailto:support@necronalabs)  
+- **X**: [@necronalabs](https://x.com/necrona_labs)    
+- **GitHub**: [Report issues](ttps://github.com/NecronaLabs/)  
 
 ## Security & Safety
 
@@ -175,3 +174,4 @@ NecronaLabs is open source and available under the MIT License.
 ---
 
 **Ready to dive in?** Start with the [Quick Start Guide](getting-started/quick-start.md) →
+

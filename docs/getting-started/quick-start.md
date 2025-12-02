@@ -1,10 +1,10 @@
 # Quick Start Guide
 
-Get started with Luna402 in just 5 minutes! This guide will walk you through setting up and making your first autonomous payment.
+Get started with Necrona in just 5 minutes! This guide will walk you through setting up and making your first autonomous payment.
 
 ## What You'll Learn
 
-- How to access Luna402
+- How to access Necrona
 - Making your first payment request
 - Understanding the autonomous payment flow
 - Best practices for safe usage
@@ -18,12 +18,12 @@ Before you begin, you'll need:
 - Some cryptocurrency for gas fees and payments
 - Basic understanding of blockchain transactions
 
-## Step 1: Access Luna402
+## Step 1: Access Necrona
 
 Open your web browser and navigate to:
 
 ```
-https://luna402.xyz
+https://Necronalabs.tech
 ```
 
 You'll see the landing page featuring:
@@ -46,7 +46,7 @@ The app interface features:
 
 ## Step 3: Your First Request
 
-Let's make a simple request to understand how Luna402 works.
+Let's make a simple request to understand how Necrona works.
 
 ### Try a Basic Query
 
@@ -87,7 +87,7 @@ and I'll handle the payment automatically!
 
 ## Step 4: Understanding the Payment Flow
 
-Here's how Luna402 handles payments autonomously:
+Here's how Necrona handles payments autonomously:
 
 ### 1. You Make a Request
 
@@ -95,15 +95,15 @@ Here's how Luna402 handles payments autonomously:
 Get me the current weather data for New York City from WeatherAPI
 ```
 
-### 2. Luna402 Detects Payment Requirement
+### 2. Necrona Detects Payment Requirement
 
 - The service returns HTTP 402 (Payment Required)
-- Luna402 reads the x402 payment details
+- Necrona reads the x402 payment details
 - Shows you the cost: "This will cost 0.001 ETH"
 
 ### 3. Autonomous Processing
 
-- Luna402 checks your configured spending limits
+- Necrona checks your configured spending limits
 - Submits blockchain transaction automatically
 - Waits for confirmation (~2 seconds)
 - Shows transaction hash for transparency
@@ -222,11 +222,11 @@ Ensure you have enough for:
 
 ### Q: Is my wallet connected?
 
-A: Luna402 uses your browser wallet (MetaMask, etc.). You'll be prompted to connect when making your first payment.
+A: Necrona uses your browser wallet (MetaMask, etc.). You'll be prompted to connect when making your first payment.
 
 ### Q: How much does it cost?
 
-A: Luna402 charges **0% platform fees**. You only pay:
+A: Necrona charges **0% platform fees**. You only pay:
 
 - Service provider fees (varies by service)
 - Blockchain gas fees (typically $0.01-$1.00)
@@ -241,7 +241,7 @@ A: Once submitted to the blockchain, transactions cannot be cancelled. However, 
 
 ### Q: Which blockchains are supported?
 
-A: Luna402 is blockchain agnostic and supports:
+A: Necrona is blockchain agnostic and supports:
 
 - Ethereum
 - Solana
@@ -281,11 +281,10 @@ Now that you've completed your first request:
 
 ## Need Help?
 
-- 📧 **Email Support**: [support@luna402xyz.xyz](mailto:support@luna402xyz.xyz)
-- 💬 **Discord**: [Join our community](https://discord.gg/luna402)
-- 🐦 **X**: [@luna402xyzxyz](https://x.com/luna402xyzxyz)
-- 📖 **Documentation**: [docs.luna402.xyz](https://docs.luna402.xyz)
+- 🐦 **X**: [@Necronatechtech](https://x.com/Necronatechtech)
+- 📖 **Documentation**: [docs.Necrona.tech](https://docs.Necrona.tech)
 
 ---
 
 **Ready for full setup?** Continue to the [Installation Guide](installation.md) for complete configuration →
+

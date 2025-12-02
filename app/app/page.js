@@ -130,16 +130,16 @@ export default function AppPage8Bit() {
           <div className="container mx-auto px-4 py-3">
             <div className="flex items-center justify-between">
               <Link href="/" className="group flex items-center gap-3">
-                  <div className="relative">
-                    <img
-                      src="/logo.png"
-                      alt="Logo"
-                      width={70}
-                      height={70}
-                      className="relative z-10"
-                    />
-                  </div>
-                </Link>
+                <div className="relative">
+                  <img
+                    src="/logo.png"
+                    alt="Logo"
+                    width={70}
+                    height={70}
+                    className="relative z-10"
+                  />
+                </div>
+              </Link>
               <WalletMultiButton className="wallet-adapter-button !bg-primary !border-2 !border-primary-bright !shadow-[3px_3px_0_0_rgba(0,0,0,0.3)] hover:!translate-y-0.5 hover:!shadow-[1.5px_1.5px_0_0_rgba(0,0,0,0.3)] !transition-all !font-mono !text-sm !font-bold" />
             </div>
           </div>
@@ -151,7 +151,7 @@ export default function AppPage8Bit() {
           <div className="mb-6 min-h-[500px] border border-primary backdrop-blur-lg bg-purple-950/80 shadow-[4px_4px_0_0_rgba(0,0,0,0.3)] relative">
             {/* Title Bar */}
             <div className="font-display border-b border-primary bg-primary-20 px-4 py-2 text-primary-light">
-              LUNA402 AUTONOMOUS PAYMENT SYSTEM v1.1.0
+              NECRONA AUTONOMOUS PAYMENT SYSTEM v1.1.0
             </div>
 
             {/* Messages Area */}
@@ -159,15 +159,15 @@ export default function AppPage8Bit() {
               {messages.length === 0 && (
                 <div className="text-center py-12">
                   <p className="font-display text-gray-100">
-                    {connected ? '> Luna is awaiting your command...' : '> Connect wallet to unlock Luna'}
+                    {connected ? '> NECRONA is awaiting your command...' : '> Connect wallet to unlock NECRONA'}
                   </p>
 
                   {connected && (
                     <div className="mt-8 grid grid-cols-1 md:grid-cols-2 gap-4 max-w-4xl mx-auto">
                       {[
                         { text: 'How does x402 work?', icon: '🛠️' },
-                        { text: 'What can Luna402 do?', icon: '🤖' },
-                        { text: 'Simulate a payment example with Luna402', icon: '▶️' },
+                        { text: 'What can NECRONA do?', icon: '🤖' },
+                        { text: 'Simulate a payment example with NECRONA', icon: '▶️' },
                         { text: 'Check system status', icon: '⌛' },
                       ].map((item, idx) => (
                         <button
@@ -203,7 +203,7 @@ export default function AppPage8Bit() {
                       {message.role === 'assistant' && (
                         <div className="flex items-center gap-2 mb-2 pb-2 border-b-2 border-primary">
                           <div className="w-1 h-1 bg-primary animate-pulse" />
-                          <span className="text-primary-light font-bold">LUNA402</span>
+                          <span className="text-primary-light font-bold">NECRONA</span>
                         </div>
                       )}
 

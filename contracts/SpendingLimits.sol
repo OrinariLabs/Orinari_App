@@ -5,8 +5,8 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 
 /**
  * @title SpendingLimits
- * @dev Manages spending limits for Luna402 autonomous payments
- * Allows users to set daily/weekly/monthly limits for AI spending
+ * @dev Manages spending limits for NecronaLabs autonomous payments
+ * Allows users to set daily/weekly/monthly limits for AI-driven spending
  */
 contract SpendingLimits is Ownable {
 

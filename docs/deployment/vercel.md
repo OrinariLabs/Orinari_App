@@ -1,10 +1,10 @@
 # Platform Infrastructure
 
-Necrona is a professionally managed, cloud-hosted platform. This page provides information about our infrastructure and deployment architecture for informational purposes.
+NECRORA is a professionally managed, cloud-hosted platform. This page provides information about our infrastructure and deployment architecture for informational purposes.
 
 ## Cloud Infrastructure
 
-Necrona operates on enterprise-grade cloud infrastructure designed for:
+NECRORA operates on enterprise-grade cloud infrastructure designed for:
 
 ### High Availability
 
@@ -143,9 +143,9 @@ Our deployment follows industry best practices:
 
 ### Public Status Page
 
-Monitor Necrona's status in real-time:
+Monitor NECRORA's status in real-time:
 
-- **URL**: [status.necronalabs.tech](https://status.necronalabs.tech)
+- **URL**: [status.NECRORAlabs.tech](https://status.NECRORAlabs.tech)
 - **Uptime History**: 30-day uptime statistics
 - **Incident Reports**: Transparent incident communication
 - **Scheduled Maintenance**: Advance notification of maintenance
@@ -213,4 +213,5 @@ Coming improvements:
 ---
 
 **Want to know more?** Check our [FAQ](../appendix/faq.md) or contact our support team.
+
 

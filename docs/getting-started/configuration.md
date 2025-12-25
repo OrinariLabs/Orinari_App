@@ -2,7 +2,7 @@
 
 NECRORA is a fully managed, cloud-based platform. There are no configuration files or settings to manage - everything is optimized and ready to use out of the box.
 
-## About NECRORAPlatform
+## About NECRORA Platform
 
 NECRORA runs on a sophisticated infrastructure designed for:
 
@@ -209,5 +209,6 @@ For technical support or questions:
 ---
 
 **Questions about the platform?** Check our [FAQ](../appendix/faq.md) for answers to common questions.
+
 
 

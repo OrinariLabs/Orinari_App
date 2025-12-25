@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 
 /**
  * @title RecurringPayments
- * @dev Manages subscription-based recurring payments for NecronaLabs ($NECRONA)
+ * @dev Manages subscription-based recurring payments for NECRORALabs ($NECRORA)
  * Enables AI agents to pay for recurring services automatically
  */
 contract RecurringPayments is ReentrancyGuard, Ownable {

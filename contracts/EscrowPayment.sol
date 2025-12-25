@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 
 /**
  * @title EscrowPayment
- * @dev Manages milestone-based escrow payments for NecronaLabs ($NECRONA)
+ * @dev Manages milestone-based escrow payments for NECRORALabs ($NECRORA)
  * Enables secure payments that are released upon milestone completion
  */
 contract EscrowPayment is ReentrancyGuard {

@@ -1,7 +1,7 @@
 {
-  "title": "Necrona Documentation",
-  "description": "Complete documentation for Necrona - AI-Powered Crypto Intelligence Platform",
-  "author": "NECRONA Team",
+  "title": "Necrora Documentation",
+  "description": "Complete documentation for Necrora - AI-Powered Crypto Intelligence Platform",
+  "author": "Necrora Team",
   "language": "en",
   "gitbook": ">=3.2.0",
   "root": ".",
@@ -24,10 +24,10 @@
   ],
   "pluginsConfig": {
     "github": {
-      "url": "https://github.com/NecronaLabs/Necrona_App"
+      "url": "https://github.com/NecroraLabs/Necrora_App"
     },
     "edit-link": {
-      "base": "https://github.com/NecronaLabs/Necrona_App",
+      "base": "https://github.com/NecroraLabs/Necrora_App",
       "label": "Edit This Page"
     },
     "sharing": {
@@ -58,7 +58,8 @@
   "variables": {
     "appName": "Luna402",
     "version": "0.1.0",
-    "repository": "https://github.com/NecronaLabs/Necrona_App"
+    "repository": "https://github.com/NecroraLabs/Necrora_App"
   }
 }
+
 

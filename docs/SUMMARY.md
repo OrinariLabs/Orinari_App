@@ -2,7 +2,7 @@
 
 ## Introduction
 
-- [Welcome to Necrora](README.md)
+- [Welcome to Nephara](README.md)
 
 ## Getting Started
 
@@ -48,5 +48,6 @@
 - [Glossary](appendix/glossary.md)
 - [Resources](appendix/resources.md)
 - [Changelog](appendix/changelog.md)
+
 
 

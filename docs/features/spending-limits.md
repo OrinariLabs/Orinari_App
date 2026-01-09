@@ -409,3 +409,4 @@ Our SpendingLimits contract:
 ---
 
 **Need help?** Join our [Discord](https://discord.gg/luna402) or email [support@luna402xyz.xyz](mailto:support@luna402xyz.xyz)
+

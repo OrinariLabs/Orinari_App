@@ -1,6 +1,6 @@
 # Chat API Endpoint
 
-The Chat API is the core endpoint that powers NEPHARA's AI conversations.
+The Chat API is the core endpoint that powers ORINARI's AI conversations.
 
 ## Endpoint
 
@@ -176,7 +176,7 @@ Enables the AI to:
 
 The endpoint includes a comprehensive system prompt that defines:
 
-1. **Identity**: "NEPHARA" cryptocurrency oracle
+1. **Identity**: "ORINARI" cryptocurrency oracle
 2. **Capabilities**: Web search, token analysis, risk assessment
 3. **Security directives**: Prompt injection protection
 4. **Personality traits**: Wise, data-driven, cautious
@@ -417,7 +417,8 @@ Consider testing:
 
 ---
 
-**Need help?** Check [Troubleshooting](../troubleshooting/api-errors.md) or [open an issue](https://github.com/yourusername/NEPHARALabs/issues).
+**Need help?** Check [Troubleshooting](../troubleshooting/api-errors.md) or [open an issue](https://github.com/yourusername/ORINARILabs/issues).
+
 
 
 

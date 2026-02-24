@@ -1,4 +1,4 @@
-# Making Payments with NEPHARA
+# Making Payments with ORINARI
 
 This guide walks you through making your first autonomous payment and understanding the payment process.
 
@@ -14,7 +14,7 @@ First, connect a Web3 wallet:
 
 ### 2. Make a Request
 
-Tell NEPHARA what you need:
+Tell ORINARI what you need:
 
 ```
 "Get me weather data for San Francisco"
@@ -22,7 +22,7 @@ Tell NEPHARA what you need:
 
 ### 3. Review Payment
 
-NEPHARA will show you:
+ORINARI will show you:
 
 ```
 Found: WeatherAPI Premium
@@ -43,7 +43,7 @@ Payment happens automatically:
 
 ### Step 1: Service Discovery
 
-When you make a request, NEPHARA:
+When you make a request, ORINARI:
 
 1. **Parses your intent**: Understands what service you need
 2. **Queries x402 Registry**: Finds compatible services
@@ -66,7 +66,7 @@ Checking:
 
 ### Step 3: Transaction Construction
 
-NEPHARA builds the transaction:
+ORINARI builds the transaction:
 
 ```javascript
 {
@@ -103,7 +103,7 @@ Block: Waiting...
 
 With payment confirmed:
 
-1. NEPHARA retries service request
+1. ORINARI retries service request
 2. Includes payment proof in headers
 3. Service validates payment
 4. Returns requested data
@@ -144,10 +144,10 @@ Note: Gas still paid in native token
 
 ### Automatic Chain Selection
 
-NEPHARA automatically uses the correct chain:
+ORINARI automatically uses the correct chain:
 
 - Service specifies accepted chains
-- NEPHARA selects cheapest/fastest
+- ORINARI selects cheapest/fastest
 - Prompts wallet to switch if needed
 
 ## Understanding Costs
@@ -192,7 +192,7 @@ Total:        0.00142 ETH
 ```
 User: "Get current Bitcoin price"
 
-NEPHARA:
+ORINARI:
   Service: CoinGecko API
   Cost: 0.0005 ETH
   Processing...
@@ -208,7 +208,7 @@ NEPHARA:
 ```
 User: "Generate an image of a sunset"
 
-NEPHARA:
+ORINARI:
   Service: Heurist Mesh
   Cost: 0.002 ETH
   Processing...
@@ -225,7 +225,7 @@ NEPHARA:
 ```
 User: "Pin this file to IPFS"
 
-NEPHARA:
+ORINARI:
   Service: Pinata
   Cost: 0.001 ETH
   File size: 2.5 MB
@@ -457,7 +457,7 @@ Export: [CSV] [JSON]
 1. Save transaction hash
 2. Contact service support
 3. Request refund if eligible
-4. Report to NEPHARA support
+4. Report to ORINARI support
 
 ## Learn More
 
@@ -467,6 +467,7 @@ Export: [CSV] [JSON]
 - [FAQ](../appendix/faq.md)
 
 ---
+
 
 
 

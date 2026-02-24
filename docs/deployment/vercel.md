@@ -1,10 +1,10 @@
 # Platform Infrastructure
 
-NEPHARA is a professionally managed, cloud-hosted platform. This page provides information about our infrastructure and deployment architecture for informational purposes.
+ORINARI is a professionally managed, cloud-hosted platform. This page provides information about our infrastructure and deployment architecture for informational purposes.
 
 ## Cloud Infrastructure
 
-NEPHARA operates on enterprise-grade cloud infrastructure designed for:
+ORINARI operates on enterprise-grade cloud infrastructure designed for:
 
 ### High Availability
 
@@ -143,9 +143,9 @@ Our deployment follows industry best practices:
 
 ### Public Status Page
 
-Monitor NEPHARA's status in real-time:
+Monitor ORINARI's status in real-time:
 
-- **URL**: [status.NEPHARAlabs.tech](https://status.NEPHARAlabs.tech)
+- **URL**: [status.ORINARIlabs.tech](https://status.ORINARIlabs.tech)
 - **Uptime History**: 30-day uptime statistics
 - **Incident Reports**: Transparent incident communication
 - **Scheduled Maintenance**: Advance notification of maintenance
@@ -213,6 +213,7 @@ Coming improvements:
 ---
 
 **Want to know more?** Check our [FAQ](../appendix/faq.md) or contact our support team.
+
 
 
 

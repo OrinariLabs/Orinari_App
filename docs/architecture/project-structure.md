@@ -5,7 +5,7 @@ Understanding how necrona is organized will help you navigate, modify, and exten
 ## Directory Overview
 
 ```
-NEPHARA/
+ORINARI/
 ├── app/                          # Next.js App Router directory
 │   ├── api/                      # API routes
 │   │   └── chat/
@@ -382,6 +382,7 @@ Where to add new features:
 - Read about [AI System Prompt](ai-system-prompt.md)
 
 ---
+
 
 
 

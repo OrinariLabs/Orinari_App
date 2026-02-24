@@ -1,7 +1,7 @@
 {
-  "title": "Nephara Documentation",
-  "description": "Complete documentation for Nephara - AI-Powered Crypto Intelligence Platform",
-  "author": "Nephara Team",
+  "title": "Orinari Documentation",
+  "description": "Complete documentation for Orinari - AI-Powered Crypto Intelligence Platform",
+  "author": "Orinari Team",
   "language": "en",
   "gitbook": ">=3.2.0",
   "root": ".",
@@ -24,10 +24,10 @@
   ],
   "pluginsConfig": {
     "github": {
-      "url": "https://github.com/NepharaLabs/Nephara_App"
+      "url": "https://github.com/OrinariLabs/Orinari_App"
     },
     "edit-link": {
-      "base": "https://github.com/NepharaLabs/Nephara_App",
+      "base": "https://github.com/OrinariLabs/Orinari_App",
       "label": "Edit This Page"
     },
     "sharing": {
@@ -58,16 +58,16 @@
   "variables": {
     "appName": "Luna402",
     "version": "0.1.0",
-    "repository": "https://github.com/NepharaLabs/Nephara_App"
+    "repository": "https://github.com/OrinariLabs/Orinari_App"
   }
 }
 
 
 
 {
-  "title": "Nephara Documentation",
-  "description": "Complete documentation for Nephara - AI-Powered Crypto Intelligence Platform",
-  "author": "Nephara Team",
+  "title": "Orinari Documentation",
+  "description": "Complete documentation for Orinari - AI-Powered Crypto Intelligence Platform",
+  "author": "Orinari Team",
   "language": "en",
   "gitbook": ">=3.2.0",
   "root": ".",
@@ -90,10 +90,10 @@
   ],
   "pluginsConfig": {
     "github": {
-      "url": "https://github.com/NepharaLabs/Nephara_App"
+      "url": "https://github.com/OrinariLabs/Orinari_App"
     },
     "edit-link": {
-      "base": "https://github.com/NepharaLabs/Nephara_App",
+      "base": "https://github.com/OrinariLabs/Orinari_App",
       "label": "Edit This Page"
     },
     "sharing": {
@@ -124,9 +124,10 @@
   "variables": {
     "appName": "Luna402",
     "version": "0.1.0",
-    "repository": "https://github.com/NepharaLabs/Nephara_App"
+    "repository": "https://github.com/OrinariLabs/Orinari_App"
   }
 }
+
 
 
 

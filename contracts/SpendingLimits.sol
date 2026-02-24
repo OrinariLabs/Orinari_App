@@ -5,7 +5,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 
 /**
  * @title SpendingLimits
- * @dev Manages spending limits for NEPHARALabs autonomous payments
+ * @dev Manages spending limits for ORINARILabs autonomous payments
  * Allows users to set daily/weekly/monthly limits for AI-driven spending
  */
 contract SpendingLimits is Ownable {
@@ -229,5 +229,6 @@ contract SpendingLimits is Ownable {
         return limit.monthlyLimit > limit.monthlySpent ? limit.monthlyLimit - limit.monthlySpent : 0;
     }
 }
+
 
 

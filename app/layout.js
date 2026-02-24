@@ -14,7 +14,7 @@ const inter = Inter({
 });
 
 export const metadata = {
-  title: 'NEPHARA - Autonomous AI agent for x402 payments',
+  title: 'ORINARI - Autonomous AI agent for x402 payments',
   description:
     'Autonomous AI agent that makes payments on your behalf using the x402 protocol. Access paid APIs and services without manual intervention.',
   keywords: [
@@ -46,4 +46,5 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
+
 

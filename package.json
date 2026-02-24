@@ -1,8 +1,8 @@
 {
-  "name": "Nephara401",
+  "name": "Orinari401",
   "version": "1.0.0",
   "private": true,
-  "description": "Nephara Labs",
+  "description": "Orinari Labs",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
@@ -16,7 +16,7 @@
     "fix:all": "npm run lint:fix && npm run format"
   },
   "keywords": [],
-  "author": "Nepharalabs@g",
+  "author": "Orinarilabs@g",
   "license": "ISC",
   "dependencies": {
     "@ai-sdk/google": "^2.0.44",

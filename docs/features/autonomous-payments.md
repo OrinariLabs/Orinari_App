@@ -1,10 +1,10 @@
 # Autonomous Payments
 
-NEPHARA's core feature is autonomous payment processing using the x402 protocol. This page explains how the system automatically handles payments on your behalf.
+ORINARI's core feature is autonomous payment processing using the x402 protocol. This page explains how the system automatically handles payments on your behalf.
 
 ## Overview
 
-Autonomous payments allow NEPHARA to:
+Autonomous payments allow ORINARI to:
 
 - Detect when a service requires payment (HTTP 402)
 - Process blockchain transactions automatically
@@ -20,16 +20,16 @@ When you request access to a paid service, the flow works like this:
 ```
 You: "Get me weather data from WeatherAPI"
   ↓
-NEPHARA makes HTTP request to service
+ORINARI makes HTTP request to service
   ↓
 Service returns: HTTP 402 Payment Required
   ↓
-NEPHARA reads x402 payment details
+ORINARI reads x402 payment details
 ```
 
 ### 2. Limit Verification
 
-Before processing any payment, NEPHARAchecks:
+Before processing any payment, ORINARIchecks:
 
 - **Daily Spending Limit**: Have you exceeded today's limit?
 - **Weekly Spending Limit**: Have you exceeded this week's limit?
@@ -43,7 +43,7 @@ If any limit would be exceeded, the payment is **rejected** and you're notified.
 If limits check out:
 
 ```
-1. NEPHARA constructs blockchain transaction
+1. ORINARI constructs blockchain transaction
 2. Signs transaction with authorized wallet
 3. Submits to blockchain network
 4. Waits for confirmation (~2 seconds)
@@ -55,11 +55,11 @@ If limits check out:
 Once payment is confirmed:
 
 ```
-1. NEPHARA retries original request
+1. ORINARI retries original request
 2. Includes payment proof in headers
 3. Service validates payment
 4. Returns requested data
-5. NEPHARA presents results to you
+5. ORINARI presents results to you
 ```
 
 Total time: **~3-5 seconds** from request to delivery!
@@ -85,7 +85,7 @@ Pay with standard tokens:
 
 ### Multi-Chain Support
 
-NEPHARA is blockchain agnostic:
+ORINARI is blockchain agnostic:
 
 - Automatically detects required chain
 - Uses appropriate wallet connection
@@ -98,7 +98,7 @@ Here's a real-world example:
 ```
 User: "I need AI-generated images of a sunset over mountains"
 
-NEPHARA: "Found: Heurist Mesh AI Image Generation"
+ORINARI: "Found: Heurist Mesh AI Image Generation"
          "Cost: 0.001 ETH (~$2.50)"
          "Checking spending limits..."
          "✓ Within daily limit (0.01 ETH)"
@@ -146,7 +146,7 @@ Every payment is:
 ### Non-Custodial
 
 - You control your private keys
-- NEPHARA never holds your funds
+- ORINARI never holds your funds
 - All transactions signed by your wallet
 - Revoke access anytime
 
@@ -172,7 +172,7 @@ Gas fees are transaction costs paid to blockchain validators:
 
 ### Gas Optimization
 
-NEPHARA optimizes gas usage:
+ORINARI optimizes gas usage:
 
 - Estimates fees before transaction
 - Uses efficient transaction types
@@ -350,6 +350,7 @@ Action: Increase to 0.02 ETH or wait
 - [FAQ](../appendix/faq.md)
 
 ---
+
 
 
 

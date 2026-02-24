@@ -1,10 +1,10 @@
-# NepharaLabs
+# OrinariLabs
 
-An autonomous AI agent that makes privacy-focused payments on your behalf using the x402 protocol. NepharaLabs is designed for payment privacy and developed through Opus-style experiments and ASCII-driven interfaces, all running on the x402 grid. Access paid APIs, services, and digital resources without manual intervention.
+An autonomous AI agent that makes privacy-focused payments on your behalf using the x402 protocol. OrinariLabs is designed for payment privacy and developed through Opus-style experiments and ASCII-driven interfaces, all running on the x402 grid. Access paid APIs, services, and digital resources without manual intervention.
 
 ## Features
 
-- **Autonomous Payments**: NepharaLabs automatically handles HTTP 402 payment flows  
+- **Autonomous Payments**: OrinariLabs automatically handles HTTP 402 payment flows  
 - **Zero Platform Fees**: Only pay blockchain gas fees and service costs  
 - **Instant Settlement**: Payments settle in ~2 seconds at blockchain speed  
 - **Blockchain Agnostic**: Works with Ethereum, Solana, and any x402-compatible chain  
@@ -43,8 +43,8 @@ Learn more at [x402.org](https://x402.org) and [x402.gitbook.io](https://x402.gi
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/NepharaLabs-xyz/Nepharalabs.git
-cd Nepharalabs
+git clone https://github.com/OrinariLabs-xyz/Orinarilabs.git
+cd Orinarilabs
 ```
 
 2. Install dependencies:
@@ -76,7 +76,7 @@ npm run dev
 ## Project Structure
 
 ```
-Nepharalabs/
+Orinarilabs/
 ├── app/
 │   ├── api/
 │   │   └── chat/
@@ -93,8 +93,8 @@ Nepharalabs/
 
 ## How It Works
 
-1. You Request a Resource: Tell NepharaLabs what service or API you need access to
-2. NepharaLabs Handles Payment: The agent automatically detects HTTP 402 responses and processes blockchain payments
+1. You Request a Resource: Tell OrinariLabs what service or API you need access to
+2. OrinariLabs Handles Payment: The agent automatically detects HTTP 402 responses and processes blockchain payments
 3. Instant Access: Once payment is verified, you receive immediate access to the resource
 
 ## Use Cases
@@ -108,7 +108,7 @@ Nepharalabs/
 
 ### Deploy to Vercel
 
-The easiest way to deploy NepharaLabs is using [Vercel](https://vercel.com):
+The easiest way to deploy OrinariLabs is using [Vercel](https://vercel.com):
 
 1. Push your code to GitHub
 2. Import your repository in Vercel
@@ -120,7 +120,7 @@ The easiest way to deploy NepharaLabs is using [Vercel](https://vercel.com):
 
 ## x402 Protocol Integration
 
-To make NepharaLabs actually process payments, you'll need to integrate with the x402 protocol: 
+To make OrinariLabs actually process payments, you'll need to integrate with the x402 protocol: 
 
 1. Implement x402 facilitator endpoints for payment verification
 2. Add blockchain wallet connectivity (e.g., WalletConnect, MetaMask)
@@ -146,21 +146,21 @@ This project is open source and available under the MIT License.
 
 ## Tokenomics
 
-$Nephara Token
+$Orinari Token
 
-NepharaLabs features a sustainable token economy designed to create value for holders through platform fees and automatic buybacks.
+OrinariLabs features a sustainable token economy designed to create value for holders through platform fees and automatic buybacks.
 
 ### Fee Structure
 
 #### 0.75% Platform Fee for Non-Holders
-Non-token holders pay a small 0.75% transaction fee when using NepharaLabs to access x402-compatible services.
+Non-token holders pay a small 0.75% transaction fee when using OrinariLabs to access x402-compatible services.
 
 - Minimal fee for non-holders
 - Applied only to x402 service transactions
 - Transparent and fair pricing
 
 #### 0% Zero Fees for Holders
-Hold $Nephara tokens and enjoy completely fee-free transactions on the platform forever.
+Hold $Orinari tokens and enjoy completely fee-free transactions on the platform forever.
 
 - Absolutely zero platform fees
 - Unlimited x402 service access
@@ -168,7 +168,7 @@ Hold $Nephara tokens and enjoy completely fee-free transactions on the platform 
 
 ### 100% Fee Buyback Program
 
-Every single dollar generated from platform fees is used to buy back $Nephara tokens from the market, creating continuous buying pressure and value for holders.
+Every single dollar generated from platform fees is used to buy back $Orinari tokens from the market, creating continuous buying pressure and value for holders.
 
 - Automated buyback mechanism
 - Transparent on-chain execution
@@ -186,4 +186,4 @@ For questions or issues, please open an issue on GitHub or contact the maintaine
 
 ---
 
-Built with the x402 protocol for autonomous, internet-native, privacy-focused payments, developed through Opus-style and ASCII-driven experiments on the NepharaLabs grid.
+Built with the x402 protocol for autonomous, internet-native, privacy-focused payments, developed through Opus-style and ASCII-driven experiments on the OrinariLabs grid.

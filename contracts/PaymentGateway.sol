@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 
 /**
  * @title PaymentGateway
- * @dev Handles x402 protocol payments for NepharaLabs ($NEPHARA)
+ * @dev Handles x402 protocol payments for OrinariLabs ($ORINARI)
  * Supports both native token and ERC20 payments
  */
 contract PaymentGateway is ReentrancyGuard, Ownable {
@@ -208,4 +208,5 @@ contract PaymentGateway is ReentrancyGuard, Ownable {
         return payments[paymentId].completed;
     }
 }
+
 

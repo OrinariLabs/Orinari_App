@@ -49,13 +49,13 @@ export default function Home() {
                     How It Works
                   </a>
                   <a
-                    href="https://docs.NEPHARA.xyz"
+                    href="https://docs.orinarilabs.xyz"
                     className="font-medium tracking-wider text-gray-300 uppercase transition-colors hover:text-primary"
                   >
                     Docs
                   </a>
                   <a
-                    href="https://github.com/NEPHARA-xyz/NEPHARA"
+                    href="https://github.com/ORINARI-xyz/ORINARI"
                     className="font-medium tracking-wider text-gray-300 uppercase transition-colors hover:text-primary"
                   >
                     Github
@@ -98,7 +98,7 @@ export default function Home() {
                 transition={{ delay: 0.3, duration: 0.5 }}
                 className="max-w-3xl mb-10 text-lg leading text-gray-300"
               >
-                NEPHARA is your x402 AI payment agent that never sleeps. Access premium APIs, data feeds, and digital services instantly. No accounts, no approvals, just seamless transactions powered by the x402 protocol.
+                ORINARI is your x402 AI payment agent that never sleeps. Access premium APIs, data feeds, and digital services instantly. No accounts, no approvals, just seamless transactions powered by the x402 protocol.
               </motion.p>
 
               {/* CTA Buttons */}
@@ -384,7 +384,7 @@ export default function Home() {
           <div className="mx-auto max-w-7xl">
             <div className="mb-20 text-center">
               <h2 className="mb-4 font-display text-white text-4xl md:text-6xl">
-                How NEPHARA Works
+                How ORINARI Works
               </h2>
               <p className="mx-auto max-w-3xl text-lg text-gray-200">
                 Three simple steps. Zero friction. Complete automation.
@@ -802,7 +802,7 @@ export default function Home() {
                 <ul className="space-y-2 text-sm text-gray-200/70">
                   <li>
                     <a
-                      href="https://docs.NEPHARA.xyz"
+                      href="https://docs.ORINARI.xyz"
                       className="transition-colors hover:text-primary"
                     >
                       Documentation
@@ -810,7 +810,7 @@ export default function Home() {
                   </li>
                   <li>
                     <a
-                      href="https://github.com/NEPHARA-xyz/NEPHARA"
+                      href="https://github.com/ORINARI-xyz/ORINARI"
                       className="transition-colors hover:text-primary"
                     >
                       Github
@@ -824,7 +824,7 @@ export default function Home() {
                 <ul className="space-y-2 text-sm text-gray-200/70">
                   <li>
                     <a
-                      href="https://x.com/NEPHARAxyz"
+                      href="https://x.com/ORINARIxyz"
                       className="transition-colors hover:text-primary"
                     >
                       X
@@ -841,7 +841,7 @@ export default function Home() {
 
             <div className="flex flex-col items-center justify-between gap-4 border-t border-purple-500/15 pt-8 md:flex-row">
               <p className="text-sm text-gray-200/60">
-                &copy; 2025 NEPHARA. All rights reserved.
+                &copy; 2025 ORINARI. All rights reserved.
               </p>
             </div>
           </div>
@@ -850,4 +850,5 @@ export default function Home() {
     </div>
   );
 }
+
 

@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 
 /**
  * @title PaymentStreaming
- * @dev Enables continuous payment flows over time for NEPHARALabs ($NEPHARA)
+ * @dev Enables continuous payment flows over time for OrinariLabs ($ORINARI)
  * Useful for real-time compensation, per-second billing, and continuous service payments
  */
 contract PaymentStreaming is ReentrancyGuard {
@@ -419,4 +419,5 @@ contract PaymentStreaming is ReentrancyGuard {
         return stream.stopTime - block.timestamp;
     }
 }
+
 

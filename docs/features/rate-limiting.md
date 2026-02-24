@@ -1,6 +1,6 @@
 # Rate Limiting
 
-NEPHARA implements a robust rate limiting system to prevent abuse and ensure fair usage across all users.
+ORINARI implements a robust rate limiting system to prevent abuse and ensure fair usage across all users.
 
 ## Overview
 
@@ -133,7 +133,7 @@ useEffect(() => {
       another message.
     </span>
   ) : (
-    'NEPHARA provides AI-generated insights. Always do your own research.'
+    'ORINARI provides AI-generated insights. Always do your own research.'
   );
 }
 ```
@@ -328,6 +328,7 @@ Potential improvements:
 - [State Management](../architecture/state-management.md)
 
 ---
+
 
 
 

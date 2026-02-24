@@ -151,7 +151,7 @@ export default function AppPage8Bit() {
           <div className="mb-6 min-h-[500px] border border-primary backdrop-blur-lg bg-purple-950/80 shadow-[4px_4px_0_0_rgba(0,0,0,0.3)] relative">
             {/* Title Bar */}
             <div className="font-display border-b border-primary bg-primary-20 px-4 py-2 text-primary-light">
-              NEPHARA AUTONOMOUS PAYMENT SYSTEM v1.1.0
+              ORINARI AUTONOMOUS PAYMENT SYSTEM v1.1.0
             </div>
 
             {/* Messages Area */}
@@ -159,15 +159,15 @@ export default function AppPage8Bit() {
               {messages.length === 0 && (
                 <div className="text-center py-12">
                   <p className="font-display text-gray-100">
-                    {connected ? '> NEPHARA is awaiting your command...' : '> Connect wallet to unlock NEPHARA'}
+                    {connected ? '> ORINARI is awaiting your command...' : '> Connect wallet to unlock ORINARI'}
                   </p>
 
                   {connected && (
                     <div className="mt-8 grid grid-cols-1 md:grid-cols-2 gap-4 max-w-4xl mx-auto">
                       {[
                         { text: 'How does x402 work?', icon: '🛠️' },
-                        { text: 'What can NEPHARA do?', icon: '🤖' },
-                        { text: 'Simulate a payment example with NEPHARA', icon: '▶️' },
+                        { text: 'What can ORINARI do?', icon: '🤖' },
+                        { text: 'Simulate a payment example with ORINARI', icon: '▶️' },
                         { text: 'Check system status', icon: '⌛' },
                       ].map((item, idx) => (
                         <button
@@ -203,7 +203,7 @@ export default function AppPage8Bit() {
                       {message.role === 'assistant' && (
                         <div className="flex items-center gap-2 mb-2 pb-2 border-b-2 border-primary">
                           <div className="w-1 h-1 bg-primary animate-pulse" />
-                          <span className="text-primary-light font-bold">NEPHARA</span>
+                          <span className="text-primary-light font-bold">ORINARI</span>
                         </div>
                       )}
 
@@ -348,5 +348,6 @@ export default function AppPage8Bit() {
     </div>
   );
 }
+
 
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-- [Welcome to Nephara](README.md)
+- [Welcome to Orinari](README.md)
 
 ## Getting Started
 
@@ -48,6 +48,7 @@
 - [Glossary](appendix/glossary.md)
 - [Resources](appendix/resources.md)
 - [Changelog](appendix/changelog.md)
+
 
 
 

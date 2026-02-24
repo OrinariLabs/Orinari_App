@@ -1,10 +1,10 @@
 # Quick Start Guide
 
-Get started with NEPHARA in just 5 minutes! This guide will walk you through setting up and making your first autonomous payment.
+Get started with ORINARI in just 5 minutes! This guide will walk you through setting up and making your first autonomous payment.
 
 ## What You'll Learn
 
-- How to access NEPHARA
+- How to access ORINARI
 - Making your first payment request
 - Understanding the autonomous payment flow
 - Best practices for safe usage
@@ -18,12 +18,12 @@ Before you begin, you'll need:
 - Some cryptocurrency for gas fees and payments
 - Basic understanding of blockchain transactions
 
-## Step 1: Access NEPHARA
+## Step 1: Access ORINARI
 
 Open your web browser and navigate to:
 
 ```
-https://NEPHARAlabs.tech
+https://orinarilabs.xyz/
 ```
 
 You'll see the landing page featuring:
@@ -46,7 +46,7 @@ The app interface features:
 
 ## Step 3: Your First Request
 
-Let's make a simple request to understand how NEPHARA works.
+Let's make a simple request to understand how ORINARI works.
 
 ### Try a Basic Query
 
@@ -87,7 +87,7 @@ and I'll handle the payment automatically!
 
 ## Step 4: Understanding the Payment Flow
 
-Here's how NEPHARA handles payments autonomously:
+Here's how ORINARI handles payments autonomously:
 
 ### 1. You Make a Request
 
@@ -95,15 +95,15 @@ Here's how NEPHARA handles payments autonomously:
 Get me the current weather data for New York City from WeatherAPI
 ```
 
-### 2. NEPHARA Detects Payment Requirement
+### 2. ORINARI Detects Payment Requirement
 
 - The service returns HTTP 402 (Payment Required)
-- NEPHARA reads the x402 payment details
+- ORINARI reads the x402 payment details
 - Shows you the cost: "This will cost 0.001 ETH"
 
 ### 3. Autonomous Processing
 
-- NEPHARA checks your configured spending limits
+- ORINARI checks your configured spending limits
 - Submits blockchain transaction automatically
 - Waits for confirmation (~2 seconds)
 - Shows transaction hash for transparency
@@ -222,11 +222,11 @@ Ensure you have enough for:
 
 ### Q: Is my wallet connected?
 
-A: NEPHARA uses your browser wallet (MetaMask, etc.). You'll be prompted to connect when making your first payment.
+A: ORINARI uses your browser wallet (MetaMask, etc.). You'll be prompted to connect when making your first payment.
 
 ### Q: How much does it cost?
 
-A: NEPHARA charges **0% platform fees**. You only pay:
+A: ORINARI charges **0% platform fees**. You only pay:
 
 - Service provider fees (varies by service)
 - Blockchain gas fees (typically $0.01-$1.00)
@@ -241,7 +241,7 @@ A: Once submitted to the blockchain, transactions cannot be cancelled. However, 
 
 ### Q: Which blockchains are supported?
 
-A: NEPHARA is blockchain agnostic and supports:
+A: ORINARI is blockchain agnostic and supports:
 
 - Ethereum
 - Solana
@@ -281,11 +281,12 @@ Now that you've completed your first request:
 
 ## Need Help?
 
-- 🐦 **X**: [@NEPHARAtechtech](https://x.com/NEPHARALabs)
+- 🐦 **X**: [@ORINARItechtech](https://x.com/Orinari_Labs)
 
 ---
 
 **Ready for full setup?** Continue to the [Installation Guide](installation.md) for complete configuration →
+
 
 
 

@@ -6,7 +6,7 @@ This comprehensive guide will help you master ORINARI's chat interface and get t
 
 ### Accessing the Chat
 
-1. Visit [ORINARIlabs.xyz](https://orinarilabs.xyz)
+1. Visit [Orinarilabs.xyz](https://orinarilabs.xyz)
 2. Click "Launch App" on the homepage
 3. You'll be taken directly to the chat interface
 4. No registration or login required!
@@ -548,6 +548,7 @@ Get perspective-specific insights.
 ---
 
 **Ready to chat?** Visit [ORINARIlabs.xyz](https://orinarilabs.xyz) and start your first conversation!
+
 
 
 

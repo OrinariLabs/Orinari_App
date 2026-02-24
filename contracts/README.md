@@ -1,6 +1,6 @@
-# NepharaLabs Smart Contracts
+# OrinariLabs Smart Contracts
 
-This directory contains the smart contracts for the **NEPHARALabs** autonomous payment system built on the x402 protocol and powered by the **$NEPHARA** token.
+This directory contains the smart contracts for the **OrinariLabs** autonomous payment system built on the x402 protocol and powered by the **$ORINARI** token.
 
 ## Contracts Overview
 
@@ -172,9 +172,9 @@ Enables continuous, per-second payment flows for real-time compensation.
 7. Deploy `PaymentStreaming.sol` - Continuous payment flows  
 8. Connect contracts (set addresses for cross-contract calls if needed)  
 
-## Integration with NEPHARALabs
+## Integration with ORINARILabs
 
-The contracts integrate with the **NEPHARALabs** Next.js application (`NEPHARA_App`) and the $NEPHARA token through:
+The contracts integrate with the **ORINARILabs** Next.js application (`ORINARI_App`) and the $ORINARI token through:
 
 1. **Payment Flow** – Web3 wallet integration for initiating payments via `PaymentGateway`  
 2. **Service Discovery** – Query `X402Registry` for available x402-compatible services  
@@ -205,5 +205,6 @@ Before deploying to mainnet:
 ## License
 
 MIT License – See individual contract files for details.
+
 
 

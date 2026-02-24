@@ -1,10 +1,10 @@
 # Platform Configuration
 
-NEPHARA is a fully managed, cloud-based platform. There are no configuration files or settings to manage - everything is optimized and ready to use out of the box.
+ORINARI is a fully managed, cloud-based platform. There are no configuration files or settings to manage - everything is optimized and ready to use out of the box.
 
-## About NEPHARA Platform
+## About ORINARI Platform
 
-NEPHARA runs on a sophisticated infrastructure designed for:
+ORINARI runs on a sophisticated infrastructure designed for:
 
 - **High Availability**: 99.9% uptime guarantee
 - **Global Performance**: Distributed across multiple regions
@@ -39,7 +39,7 @@ This rate limiting ensures:
 
 ### Data Sources
 
-NEPHARAaggregates data from multiple sources:
+ORINARIaggregates data from multiple sources:
 
 - **DexScreener**: Real-time DEX trading data
 - **CoinGecko**: Market cap and price information
@@ -51,13 +51,13 @@ All data sources are continuously monitored and updated to ensure accuracy.
 
 ## Browser Settings
 
-For the best experience with NEPHARA:
+For the best experience with ORINARI:
 
 ### Recommended Browser Settings
 
 1. **JavaScript**: Must be enabled
 2. **Cookies**: Allow for session management
-3. **Pop-ups**: Allow from NEPHARA domain
+3. **Pop-ups**: Allow from ORINARI domain
 4. **Auto-fill**: Can be enabled for convenience
 
 ### Performance Optimization
@@ -68,7 +68,7 @@ For the best experience with NEPHARA:
 
 ### Privacy Settings
 
-NEPHARA respects your privacy:
+ORINARI respects your privacy:
 
 - No tracking cookies
 - No personal data collection
@@ -88,7 +88,7 @@ Recommended resolutions:
 
 ### Color Mode
 
-NEPHARA features:
+ORINARI features:
 
 - **Dark Theme**: Default futuristic dark interface
 - **High Contrast**: Optimized for readability
@@ -96,7 +96,7 @@ NEPHARA features:
 
 ## Accessibility
 
-NEPHARA is designed to be accessible:
+ORINARI is designed to be accessible:
 
 - **Keyboard Navigation**: Full keyboard support
 - **Screen Readers**: Compatible with major screen readers
@@ -114,7 +114,7 @@ Expected performance metrics:
 
 ## Security Features
 
-NEPHARAincludes built-in security:
+ORINARIincludes built-in security:
 
 - **HTTPS Encryption**: All communications encrypted
 - **Prompt Injection Protection**: Prevents manipulation attempts
@@ -126,13 +126,13 @@ NEPHARAincludes built-in security:
 
 Check platform status:
 
-- **Uptime Monitor**: [status.NEPHARAlabs.tech](https://status.NEPHARAlabs.tech)
+- **Uptime Monitor**: [status.ORINARIlabs.tech](https://status.ORINARIlabs.tech)
 - **Performance Metrics**: Real-time on homepage
 - **Maintenance Notifications**: Announced on X
 
 ## Regional Availability
 
-NEPHARA is available globally with optimized performance in:
+ORINARI is available globally with optimized performance in:
 
 - **North America**: US, Canada
 - **Europe**: EU countries, UK
@@ -166,7 +166,7 @@ Currently supported:
 
 ## Mobile App
 
-Currently, NEPHARAis web-based only:
+Currently, ORINARIis web-based only:
 
 - Fully responsive mobile web interface
 - Native mobile apps: Coming in future updates
@@ -174,7 +174,7 @@ Currently, NEPHARAis web-based only:
 
 ## Fair Usage Policy
 
-NEPHARA is designed for cryptocurrency analysis. We ask users to:
+ORINARI is designed for cryptocurrency analysis. We ask users to:
 
 - Use the platform for legitimate research
 - Respect the rate limiting
@@ -197,7 +197,7 @@ Violations may result in temporary access restrictions.
 
 For technical support or questions:
 
-- **X**: [@Necorna_Labs](https://x.com/necorna_labs)
+- **X**: [@Orinari_Labs](https://x.com/Orinari_Labs)
 - **Documentation**: Check other guides in this documentation
 
 ## Next Steps
@@ -209,6 +209,7 @@ For technical support or questions:
 ---
 
 **Questions about the platform?** Check our [FAQ](../appendix/faq.md) for answers to common questions.
+
 
 
 

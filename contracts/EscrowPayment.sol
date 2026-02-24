@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 
 /**
  * @title EscrowPayment
- * @dev Manages milestone-based escrow payments for NepharaLabs ($NEPHARA)
+ * @dev Manages milestone-based escrow payments for OrinariLabs ($ORINARI)
  * Enables secure payments that are released upon milestone completion
  */
 contract EscrowPayment is ReentrancyGuard {
@@ -379,4 +379,5 @@ contract EscrowPayment is ReentrancyGuard {
         return payeeEscrows[payee];
     }
 }
+
 

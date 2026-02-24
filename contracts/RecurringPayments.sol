@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 
 /**
  * @title RecurringPayments
- * @dev Manages subscription-based recurring payments for NEPHARALabs ($NEPHARA)
+ * @dev Manages subscription-based recurring payments for ORINARILabs ($ORINARI)
  * Enables AI agents to pay for recurring services automatically
  */
 contract RecurringPayments is ReentrancyGuard, Ownable {
@@ -320,4 +320,5 @@ contract RecurringPayments is ReentrancyGuard, Ownable {
         return sub.active && block.timestamp >= sub.nextPaymentDue;
     }
 }
+
 

@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
 
 /**
  * @title ServiceRegistry
- * @dev Registry for x402 services that NEPHARALabs ($NEPHARA) agents can discover and use
+ * @dev Registry for x402 services that ORINARILabs ($ORINARI) agents can discover and use
  * Allows service providers to register their APIs and pricing
  */
 contract ServiceRegistry is Ownable, ReentrancyGuard {
@@ -313,4 +313,5 @@ contract ServiceRegistry is Ownable, ReentrancyGuard {
         return (totalServices, totalActiveServices, totalSubscriptions);
     }
 }
+
 

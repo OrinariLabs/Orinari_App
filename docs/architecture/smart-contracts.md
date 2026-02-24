@@ -1,12 +1,12 @@
 # Smart Contracts Architecture
 
-NEPHARA's autonomous payment system is powered by three core smart contracts that work together to enable secure, transparent, and autonomous transactions.
+ORINARI's autonomous payment system is powered by three core smart contracts that work together to enable secure, transparent, and autonomous transactions.
 
 ## Contract Overview
 
 ```
 ┌─────────────────────────────────────┐
-│        NEPHARA Ecosystem          │
+│        ORINARI Ecosystem          │
 ├─────────────────────────────────────┤
 │  User Interface (Next.js App)       │
 ├─────────────────────────────────────┤
@@ -475,7 +475,7 @@ X402Registry: 0x...
 
 All contracts are open source:
 
-- GitHub: [github.com/NEPHARALabs](https://github.com/NEPHARALabs)
+- GitHub: [github.com/ORINARILabs](https://github.com/ORINARILabs)
 - License: MIT
 - Folder: `/contracts`
 
@@ -487,5 +487,6 @@ All contracts are open source:
 - [API Reference](../api-reference/chat.md)
 
 ---
+
 
 
